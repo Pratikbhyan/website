@@ -79,8 +79,8 @@ export default function PrivacyPage() {
                       playback preferences
                     </li>
                     <li>
-                      <strong>Favorites and Collections:</strong> Episodes and content you mark as favorites or add to
-                      personal collections
+                      <strong>Highlights:</strong> Text highlights you create within episodes, which are stored in our
+                      backend solely for synchronization across your devices and to optimize device memory usage
                     </li>
                     <li>
                       <strong>Progress Tracking:</strong> Your listening progress, completed episodes, and learning
@@ -129,7 +129,7 @@ export default function PrivacyPage() {
                   <ul className="list-disc pl-6 space-y-1">
                     <li>Provide, maintain, and improve our Service and features</li>
                     <li>Personalize your experience and provide content recommendations</li>
-                    <li>Sync your progress and preferences across devices</li>
+                    <li>Sync your progress, highlights, and preferences across devices</li>
                     <li>Analyze usage patterns to enhance user experience and develop new features</li>
                   </ul>
                 </div>
